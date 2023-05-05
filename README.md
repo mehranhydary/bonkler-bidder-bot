@@ -1,6 +1,6 @@
 # Bonkler Bidder Bot
 
-The goal is to use this bot to make bids on Bonkler NFTs.
+The goal is to use this bot to make bids on Bonkler NFTs. The app is built with [nestjs](https://nestjs.com/).
 
 ## Description
 
